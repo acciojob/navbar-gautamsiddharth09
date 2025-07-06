@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+#nav{
+	background-color:#6e072d;
+	color: white;
+	width:100%;
+}
+ul,li {
+	list-style-type:none;
+	display:inline;
+	font-size:18px;
+	}
+#first{
+	padding-top:18px;
+	padding-bottom:18px;
+	
+	
+	
+}
+#second {
+	
+	padding-left:27px;
+	padding-right:27px;
+	
+	
+}
+
+li:hover{
+	background-color:#b90e4d;
+	cursor:pointer;
+}
+li{
+	margin:15px;
+}
